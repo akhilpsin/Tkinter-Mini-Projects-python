@@ -1,7 +1,8 @@
 # Mini Projects in Python
 
 ## 1. GUI calculator using Tkinter in Python
-#### This is a Simple GUI calculator coded using Tkinter in Python [[Code: calculator.py](https://github.com/akhilpsin/akhil_KMEA/blob/master/calculator.py)]
+#### This is a Simple GUI calculator coded using Tkinter in Python 
+#### [Code: calculator.py](https://github.com/akhilpsin/akhil_KMEA/blob/master/calculator.py)
 
 ### Algorithm
 
