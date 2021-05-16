@@ -2,7 +2,7 @@
 
 ## 1. GUI calculator using Tkinter in Python
 #### This is a Simple GUI calculator coded using Tkinter in Python 
-#### [Code: calculator.py](https://github.com/akhilpsin/akhil_KMEA/blob/master/calculator.py)
+#### [Code: calculator.py](https://github.com/akhilpsin/Python-Mini_projects/blob/master/Calculator/calculator.py)
 
 ### Algorithm
 
@@ -15,5 +15,5 @@
 
 ### Calculator Screenshot 
 
-![Calculator Screenshot](https://github.com/akhilpsin/akhil_KMEA/blob/master/cal.PNG?raw=true)
+![Calculator Screenshot](https://github.com/akhilpsin/Python-Mini_projects/blob/master/Calculator/cal.PNG?raw=true)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
