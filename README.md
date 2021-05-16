@@ -10,6 +10,6 @@
 - Creat a function for backspacing
 - Create a function to perform equal to operation by evaluating input field
 
-## Calculator Screenshot
+## Calculator Screenshot [[Code: calculator.py](https://github.com/akhilpsin/akhil_KMEA/blob/master/calculator.py)]
 
 ![Calculator Screenshot](https://github.com/akhilpsin/akhil_KMEA/blob/master/cal.PNG?raw=true)
