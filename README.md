@@ -29,5 +29,5 @@
 
 ### QR code generator Screenshot 
 
-![QR code generator Screenshot](https://github.com/akhilpsin/Python-Mini_projects/blob/master/QR%20code%20generator/btech_kid(QRcode).png?raw=true)
+![QR code generator Screenshot](https://github.com/akhilpsin/Python-Mini_projects/blob/master/QR%20code%20generator/OutputScreenShot.PNG?raw=true)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
