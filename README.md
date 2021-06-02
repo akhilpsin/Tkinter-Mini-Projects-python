@@ -39,6 +39,7 @@
 
 - Initially we Import required python libraries os, sys, cv2 and from PIL import Image
 - initialise your characters to be seen in termina as a list (ASCII_CHARS - refer code)
+- input the video to be processed 
 - create a functions to resize and gray scale each frame of the video 
 - create a functions to mapp each pixels from resized and grayscaled image and then allocate the ASCII character at those points
 - create a functions to display ASCII image generated in cmd/terminal
