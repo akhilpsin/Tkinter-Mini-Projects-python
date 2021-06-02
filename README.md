@@ -17,7 +17,7 @@
 
 ![Calculator Screenshot](https://github.com/akhilpsin/Python-Mini_projects/blob/master/Calculator/cal.PNG?raw=true)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-## 1. GUI QR code generator using Tkinter in Python
+## 2. GUI QR code generator using Tkinter in Python
 #### This is a Simple GUI QR code generator coded using Tkinter in Python 
 #### [Code: Qr_code_generator.py](https://github.com/akhilpsin/Python-Mini_projects/blob/master/QR%20code%20generator/Qr_code_generator.py)
 
@@ -31,3 +31,20 @@
 
 ![QR code generator Screenshot](https://github.com/akhilpsin/Python-Mini_projects/blob/master/QR%20code%20generator/OutputScreenShot.PNG?raw=true)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+## 3. Video to ASCII Art
+#### It is a simple python code to play videos in the terminal/cmd using characters as pixels
+#### [Code: vid_asci_code.py ](https://github.com/akhilpsin/Python-Mini_projects/blob/master/Video%20to%20ASCI%20conversion/vid_asci_code.py)
+
+### Algorithm
+
+- Initially we Import required python libraries os, sys, cv2 and from PIL import Image
+- initialise your characters to be seen in termina as a list (ASCII_CHARS - refer code)
+- create a functions to resize and gray scale each frame of the video 
+- create a functions to mapp each pixels from resized and grayscaled image and then allocate the ASCII character at those points
+- create a functions to display ASCII image generated in cmd/terminal
+
+### QR code generator Screenshot 
+
+![QR code generator Screenshot](https://github.com/akhilpsin/Python-Mini_projects/blob/master/Video%20to%20ASCI%20conversion/screenshot.PNG?raw=true)
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
