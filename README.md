@@ -37,7 +37,7 @@
 - create a functions to mapp each pixels from resized and grayscaled image and then allocate the ASCII character at those points
 - create a functions to display ASCII image generated in cmd/terminal
 ### QR code generator Screenshot 
-![QR code generator Screenshot](https://github.com/akhilpsin/Python-Mini_projects/blob/master/Video%20to%20ASCI%20conversion/screenshot.PNG?raw=true)
+![Video to ASCII Art Screenshot](https://github.com/akhilpsin/Python-Mini_projects/blob/master/Video%20to%20ASCI%20conversion/screenshot.PNG?raw=true)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ## 4. Text to audio with python
 ### Python Tkinter GUI Script to Convert Speech to Text Audio Mp3
